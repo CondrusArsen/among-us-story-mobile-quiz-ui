@@ -2,6 +2,10 @@
 
 UX/UI case study for a mobile quiz game inspired by *Among Us*, focused on level progression, quick feedback, lives, monetization, and playful mobile interaction.
 
+## Scope
+
+This is a Figma interface concept with screen exports, not an implemented or released game. Purchase screens are visual proposals; there is no payment integration or measured business result.
+
 ## Overview
 
 This project explores a mobile quiz experience where the player answers questions about characters, locations, and the internal logic of the *Among Us* universe. The interface was designed to feel atmospheric, intuitive, and strongly connected to the visual language of the original game while remaining easy to use on mobile.
