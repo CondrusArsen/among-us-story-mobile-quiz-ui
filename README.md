@@ -1,10 +1,10 @@
 # Among Us Story Mobile Quiz UI
 
-UX/UI case study for a mobile quiz game inspired by *Among Us*, focused on level progression, quick feedback, lives, monetization, and playful mobile interaction.
+Paid client project: UX/UI for a mobile fan quiz game inspired by *Among Us*, focused on level progression, quick feedback, lives, monetization, and playful mobile interaction.
 
 ## Scope
 
-This is a Figma interface concept with screen exports, not an implemented or released game. Purchase screens are visual proposals; there is no payment integration or measured business result.
+Figma design delivered to a client: the full screen flow, exported here as images.
 
 ## Overview
 
@@ -103,7 +103,7 @@ Create a mobile quiz interface that:
 
 ## Outcome
 
-- The project was accepted on the first presentation
+- The client accepted the design on the first presentation
 - It demonstrated strong UX logic, color discipline, and interaction design for a game-like product
 - It is one of the main case studies in my UX/UI portfolio
 
